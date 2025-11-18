@@ -1,0 +1,5 @@
+database:
+  url: postgresql://crescentledgadmin:ArVW9oUuSkl6tVrF6VMkzIajXo7b@crescentledg-wp56zm.postgres.database.azure.com:5432/crescentledg?sslmode=require
+  pool: 10
+cache:
+  ttl_seconds: 300
